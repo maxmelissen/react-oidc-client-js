@@ -15,7 +15,7 @@
 
 ## Cloning app
 
-- `git clone https://github.com/skoruba/react-oidc-client-js.git`
+- `git clone https://github.com/maxmelissen/react-oidc-client-js.git`
 - `cd src/`
 
 ## Install dependecies
